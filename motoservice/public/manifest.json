@@ -1,0 +1,15 @@
+{
+  "short_name": "MotoService",
+  "name": "MotoService — Red Certificada de Talleres",
+  "description": "Encuentra talleres certificados de motos cerca de ti en Colombia",
+  "icons": [
+    { "src": "icon-192.png", "type": "image/png", "sizes": "192x192", "purpose": "any maskable" },
+    { "src": "icon-512.png", "type": "image/png", "sizes": "512x512", "purpose": "any maskable" }
+  ],
+  "start_url": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "theme_color": "#F97316",
+  "background_color": "#07070F",
+  "categories": ["automotive", "lifestyle", "utilities"]
+}
